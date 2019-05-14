@@ -1,8 +1,9 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Aplicación de ejemplo
+subtitle: Equipo A
 layout: default
 modal-id: 6
+wiki-link: https://github.com/aigora/punto_inicio/wiki
 date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
