@@ -3,6 +3,7 @@ title: Dreams
 subtitle: Website Design
 layout: default
 modal-id: 1
+wiki-link: https://github.com/aigora/punto_inicio/wiki
 date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png

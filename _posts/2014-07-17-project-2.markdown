@@ -3,6 +3,7 @@ title: Escape
 subtitle: Website Design
 layout: default
 modal-id: 2
+wiki-link: https://github.com/aigora/punto_inicio/wiki
 date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
