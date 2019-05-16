@@ -13,7 +13,9 @@
                     <a href="{{ post.wiki-link }}" class="portfolio-link" data-toggle="modal">
                         <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
-                    <p>{{ post.title }}</p>
+                    <div class="portfolio-caption">
+                        <h4>{{ post.title }}</h4>
+                    </div>
                 </div>
             {% endfor %}
             </div>
