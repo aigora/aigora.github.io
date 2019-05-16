@@ -10,7 +10,9 @@
             <div class="row">
             {% for post in site.posts %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <img src="img/portfolio/{{ post.thumbnail }}"  href="{{ post.wiki-link }}" class="img-responsive img-centered" alt="">
+                    <a href="{{ post.wiki-link }}" class="portfolio-link" data-toggle="modal">
+                        <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                    </a>
                 </div>
             {% endfor %}
             </div>
