@@ -13,29 +13,29 @@ people:
   pic: 1
   position: Profesora UPM
   social:
-    - title: twitter
-      url: #
+    - title: github
+      url: https://github.com/raquelcedazo/
 
 - name: Óscar Perpiñán Laguimeiro
   pic: 2
   position: Profesor UPM
   social:
-    - title: twitter
-      url: #
+    - title: github
+      url: https://github.com/oscarperpinan/
 
 - name: Julia Uruel Sanz
   pic: 3
   position: Estudiante UPM
   social:
-    - title: twitter
-      url: #
+    - title: github
+      url: https://github.com/Juliauru/
 
 - name: Miguel Pérez Mateo
   pic: 4
   position: Estudiante UPM
   social:
-    - title: twitter
-      url: #
+    - title: github
+      url: https://github.com/MPerezMateo/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
