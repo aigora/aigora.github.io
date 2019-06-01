@@ -1,5 +1,5 @@
 ---
-title: distribucion-de-alumnos-en-examen
+title: distribucion-alumnos-examen
 layout: default
 modal-id: 98
 wiki-link: https://github.com/aigora/twQ103-distribucion-de-alumnos-en-examen/wiki
