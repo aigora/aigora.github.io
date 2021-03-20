@@ -37,6 +37,14 @@ people:
     - title: github
       url: https://github.com/MPerezMateo/
 
+
+- name: Juan Martínez Martín
+  pic: 5
+  position: Estudiante UPM
+  social:
+    - title: github
+      url: https://github.com/orgynmobs
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: youtube
