@@ -1,5 +1,5 @@
 ---
-title: 1920-twq103-burgoboy
+title: burgoboy
 layout: default
 modal-id: 24
 wiki-link: https://github.com/aigora/twQ103_1920-twq103-burgoboy/wiki
