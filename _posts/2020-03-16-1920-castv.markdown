@@ -1,5 +1,5 @@
 ---
-title: 1920-castv
+title: castv
 layout: default
 modal-id: 81
 wiki-link: https://github.com/aigora/twE105_1920-castv/wiki

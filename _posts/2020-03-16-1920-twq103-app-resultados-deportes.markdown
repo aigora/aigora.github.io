@@ -1,5 +1,5 @@
 ---
-title: 1920-twq103-app-resultados-deportes
+title: app-resultados-deportes
 layout: default
 modal-id: 33
 wiki-link: https://github.com/aigora/twQ103_1920-twq103-app-resultados-deportes/wiki

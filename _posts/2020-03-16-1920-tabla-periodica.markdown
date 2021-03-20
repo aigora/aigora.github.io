@@ -1,5 +1,5 @@
 ---
-title: 1920-tabla-periodica
+title: tabla-periodica
 layout: default
 modal-id: 19
 wiki-link: https://github.com/aigora/twQ103_1920-tabla-periodica/wiki

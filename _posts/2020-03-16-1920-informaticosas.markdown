@@ -1,5 +1,5 @@
 ---
-title: 1920-informaticosas
+title: informaticosas
 layout: default
 modal-id: 83
 wiki-link: https://github.com/aigora/twE105_1920-informaticosas/wiki

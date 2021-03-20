@@ -1,5 +1,5 @@
 ---
-title: 1920-game_of_codes
+title: game_of_codes
 layout: default
 modal-id: 18
 wiki-link: https://github.com/aigora/twE105_1920-game_of_codes/wiki

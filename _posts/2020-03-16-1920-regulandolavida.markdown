@@ -1,5 +1,5 @@
 ---
-title: 1920-regulandolavida
+title: regulandolavida
 layout: default
 modal-id: 80
 wiki-link: https://github.com/aigora/twE105_1920-regulandolavida/wiki

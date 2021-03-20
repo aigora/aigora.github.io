@@ -1,5 +1,5 @@
 ---
-title: 1920-restaurante
+title: restaurante
 layout: default
 modal-id: 26
 wiki-link: https://github.com/aigora/twQ103_1920-restaurante/wiki

@@ -1,5 +1,5 @@
 ---
-title: 1920-estarbax
+title: estarbax
 layout: default
 modal-id: 66
 wiki-link: https://github.com/aigora/twE105_1920-estarbax/wiki

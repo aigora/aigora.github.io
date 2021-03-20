@@ -1,5 +1,5 @@
 ---
-title: 1920-twq103-app-banco
+title: app-banco
 layout: default
 modal-id: 28
 wiki-link: https://github.com/aigora/twQ103_1920-twq103-app-banco/wiki

@@ -1,5 +1,5 @@
 ---
-title: 1920-stars
+title: stars
 layout: default
 modal-id: 91
 wiki-link: https://github.com/aigora/twQ103_1920-stars/wiki
