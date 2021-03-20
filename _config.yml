@@ -45,6 +45,13 @@ people:
     - title: github
       url: https://github.com/orgynmobs
 
+- name: Luis Quintana Campos
+  pic: 6
+  position: Estudiante UPM
+  social:
+    - title: github
+      url: https://github.com/lquintanac
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: youtube
