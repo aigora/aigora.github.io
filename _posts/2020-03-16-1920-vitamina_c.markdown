@@ -3,6 +3,6 @@ title: vitamina_c
 layout: default
 modal-id: 74
 wiki-link: https://github.com/aigora/twE105_1920-vitamina_c/wiki
-thumbnail: 
+thumbnail: https://raw.githubusercontent.com/aigora/twE105_1920-vitamina_c/master/logo.png
 alt: twE105_1920-vitamina_c
 ---
