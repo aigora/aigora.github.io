@@ -67,3 +67,5 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+remote_theme: y7kim/agency-jekyll-theme/
